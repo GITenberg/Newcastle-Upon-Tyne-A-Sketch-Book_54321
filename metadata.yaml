@@ -1,0 +1,20 @@
+_repo: Newcastle-Upon-Tyne-A-Sketch-Book_54321
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bertram, Robert J. S.
+    gutenberg_agent_id: '47817'
+    url: http://www.gutenberg.org/2009/agents/47817
+description: ''
+gutenberg_issued: '2017-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Newcastle-Upon-Tyne; A Sketch-Book
+url: http://www.gutenberg.org/ebooks/54321
